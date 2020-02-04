@@ -1,5 +1,5 @@
 {
-    "name": "anakadote/laravel-5-image-manager",
+    "name": "softlab/laravel-5-image-manager",
     "description": "Image resizing and cropping package for Laravel 5.",
     "license": "MIT",
     "authors": [
@@ -20,5 +20,5 @@
             "Anakadote\\ImageManager\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "develop"
 }
